@@ -14,10 +14,12 @@ Many R packages are pre-installed in this project. These include:
 
 1. Go to GitHub and set up a repository with a suitable name for your course.
 2. In the Git tab in RStudio, select the "gear" menu and then "shell." This will open up a new tab called "Terminal", next to the console.
-3. In the Terminal tab, cut and paste these commands, making sure to provide your own information rather than StatPrep Annie's.
+3. In the Terminal tab, cut and paste these commands, making sure to provide your own information rather than StatPrep Annie's. Press enter. You're going to be using the terminal tab later, as well.
 
 ```r
 git config --global user.email "StatPrep.Annie@gmail.com"
 git config --global user.name "StatPrep Annie"
 ```
 
+
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
